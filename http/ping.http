@@ -4,3 +4,7 @@ GET http://localhost:4001/api/ping
 ### ping
 GET http://localhost:4001/api/ping
 Api-Key: 2XN5V8uUu1t2bRYnqyEmSeimycS
+
+### ping
+GET http://52.77.162.31:8080/api/ping
+Api-Key: 2XN5V8uUu1t2bRYnqyEmSeimycS
