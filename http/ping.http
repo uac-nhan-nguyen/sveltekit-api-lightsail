@@ -1,1 +1,6 @@
-GET http://localhost:4001/ping
+### ping without api key
+GET http://localhost:4001/api/ping
+
+### ping
+GET http://localhost:4001/api/ping
+Api-Key: 2XN5V8uUu1t2bRYnqyEmSeimycS

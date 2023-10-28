@@ -3,5 +3,5 @@
 <h2>APIs</h2>
 
 <pre>
-  GET /ping
+  GET /api/ping
 </pre>

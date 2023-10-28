@@ -1,4 +1,4 @@
-/** @type {import('./$types').RequestHandler} */
+/** @type {import('../../../../.svelte-kit/types/src/routes').RequestHandler} */
 export function GET() {
   const ans = {
     message: "pong"
