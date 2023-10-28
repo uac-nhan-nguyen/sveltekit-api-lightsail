@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>sveltekit as api proxy</h1>
+
+<h2>APIs</h2>
+
+<pre>
+  GET /ping
+</pre>
