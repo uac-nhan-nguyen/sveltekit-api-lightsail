@@ -5,9 +5,9 @@ Proxy server to call 3rd party APIs with a static IP, using Lightsail
 - [x] Secure with API key
 - [x] Add deploy script to lightsail server
 
-
 ## Lightsail
 
+- Attach static IP
 - Add custom rule TCP for port 8080
 
 Now api should be accessible from
